@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: RawkMap
+## Notes: Масштабирование миникарты от Rawkfist.
+## Author: Rawkfist - Sirus - Neverest x3
+## SavedVariables: RawkMapScale
+RawkMap.lua
